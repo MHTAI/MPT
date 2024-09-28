@@ -1,2 +1,3 @@
-# MPT
-Modern Portfolio Theory
+# Modern Portfolio Theory
+
+This is the implementation of the Modern Portfolio Theory.
